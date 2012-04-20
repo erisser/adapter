@@ -1,3 +1,6 @@
+= Development has moved to https://github.com/jnunemaker/adapter
+------------
+
 = Adapter
 
 A simple interface to anything.
